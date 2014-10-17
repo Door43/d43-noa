@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[noa:home|Door43 (noa)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-noa|d43-noa repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-noa/archive/master.zip|d43-noa.zip]]
+
+**Recent Changes**
+{{changes>ns = noa}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/noa|Ethnologue data]]
+
